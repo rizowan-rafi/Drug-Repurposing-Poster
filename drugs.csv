@@ -1,0 +1,15 @@
+DrugName,TreatsDisease,ProteinTarget
+Losartan,Hypertension,AGTR1
+Metformin,Diabetes,AMPK
+Ibuprofen,Pain,PTGS1
+Aspirin,Pain,PTGS1
+Dapagliflozin,Diabetes,SLC5A2
+Sitagliptin,Diabetes,DPP4
+Ramipril,Hypertension,ACE
+Lisinopril,Hypertension,ACE
+Maraviroc,HIV,CCR5
+Finasteride,Hair Loss,SRD5A2
+Tadalafil,Erectile Dysfunction,PDE5A
+Sildenafil,Erectile Dysfunction,PDE5A
+Vardenafil,Erectile Dysfunction,PDE5A
+Captopril,Kidney Disease,ACE
